@@ -1,0 +1,16 @@
+*.temp
+*.txt
+node_modules
+appstate.json
+acc.json
+FastConfigFca.json
+console_log.txt
+includes/data.sqlite
+modules/savemessage
+modules/commands/cache
+modules/commands/kiemtra
+modules/commands/Lunar_Checktt
+Fca-Horizon-Remastered-main
+Horizon_Database
+modules/commands/*.ini
+modules/cache/*.ini
